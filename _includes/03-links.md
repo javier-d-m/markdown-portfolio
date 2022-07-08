@@ -1,1 +1,7 @@
-Replace this with a link to your a GitHub or social media profile.
+# Here is a list of my favorite things:
+- Long walks on the beach
+- Disco dancing
+- Open Source
+- Learning Git
+    - Github
+    - GitKraken
